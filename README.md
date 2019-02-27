@@ -1,8 +1,4 @@
-# leap-12-git-demo
-
-Doing a lot of work
-
-working really hard. 
+koda and oreo are super cute
 
 Drinking energy drinkes
 
