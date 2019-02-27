@@ -1,6 +1,4 @@
-# leap-12-git-demo
-
-Doing a lot of work
+who is khaleessi 
 
 working really hard. 
 
