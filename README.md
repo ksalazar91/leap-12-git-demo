@@ -1,3 +1,3 @@
 # GIT WORKFLOW DEMO
 
-  today e leatn about branches
+  today, we'll learn about branches, github
